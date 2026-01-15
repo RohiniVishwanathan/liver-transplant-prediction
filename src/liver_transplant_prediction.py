@@ -22,9 +22,9 @@ Key Findings:
     - Complication prediction: AUC ~0.73 (meaningful predictability)
     - Top risk factors: Intubation status, hypertension, smoking, liver enzymes
 
-Organization: Purgo AI
 Author: Rohini Vishwanathan
 Date: January 2025
+Data Source: Scripps Health (obtained during Purgo AI internship) 
 ================================================================================
 """
 
