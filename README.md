@@ -168,5 +168,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Data provided by Liver Outcome Monitoring Registry
-- Analysis conducted during internship at Purgo AI
+- Data provided during internship at Purgo AI
 - Claude (Anthropic) assisted with code development and documentation
+
