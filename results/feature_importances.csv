@@ -1,0 +1,40 @@
+Feature,Importance
+Donor Age,0.06322367677384468
+Donor Terminal SGOT/AST from DDR,0.05714388155857491
+Recipient age,0.052841698856074364
+AST at Transplant.1,0.05220159195848307
+Donor Weight,0.051821339248297515
+Donor Terminal SGPT/ALT from DDR,0.05161917017373759
+ALT at Transplant.1,0.05106789594242542
+Recipient Weight (kg) at Transplant,0.04969156886423362
+Donor Height,0.04877396631800775
+Calculated MELD score at Transplant,0.04564812448629725
+Recipient Height (cm) at Transplant,0.04282287273946331
+Recipient BMI at Transplant,0.04004482814184818
+Donor Length of Hospital Stay,0.03885794509689906
+Allocation MELD/PELD or Status at Transplant,0.03738818087717417
+WBC at Transplant.1,0.03608959998915419
+Cold Ischemia Time,0.031094962999226886
+Total Bilirubin at Transplant,0.030124062367908832
+Donor Terminal Serum Creatinine from DDR,0.02548921613342844
+Serum Creatinine at Transplant,0.0217403967973554
+Donor Terminal Total Bilirubin from DDR,0.01704002317026581
+Warm Ichemia Time,0.014631843414170264
+Allocation Type,0.014114478355041794
+Donor Ethnicity,0.013907520394128443
+Recipient Hypertension,0.012892584437956257
+Recipient Ethnicity,0.012638941873648722
+INR at Transplant,0.011470022212353381
+Recipient Ever Hepatocellular Carcinoma (HCC) Diagnosis?,0.01127046604028347
+Recipient Diabetes Mellitus at Listing,0.007989538841738428
+Recipient Prior Abdominal Surgery at Transplant,0.007718501033523489
+Recipient Prior Abdominal Surgery at Listing,0.006523331676055173
+Recipient intubated at time of transplant,0.006348374232933869
+Donor Gender,0.006143827687536465
+Donor Terminal INR from DDR,0.005563102661045308
+Recipient Gender,0.005358894927704373
+Recipient Transjugular Intrahepatic Portosystemic Shunt (TIPS) at Transplant,0.004765947020809475
+Recipient Portal Vein Thrombosis at Transplant,0.00436695116013123
+Graft Type,0.0032374750759161515
+Current Smoker within One Year,0.003209643225201839
+History of Spontaneous Bacterial Peritonitis (SBP) at Listing,0.0031235532371214816

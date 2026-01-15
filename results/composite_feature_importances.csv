@@ -1,0 +1,53 @@
+Feature,Importance
+Recipient intubated at time of transplant,0.0792468253960303
+Recipient Hypertension,0.07148161636952852
+Current Smoker within One Year,0.07068216913970188
+AST at Transplant.1,0.041308174337232814
+WBC at Transplant.1,0.0400577236351575
+ALT at Transplant.1,0.03996172105271099
+Cold Ischemia Time,0.03727543579535495
+Donor Age,0.03597330855907026
+Total Bilirubin at Transplant,0.033450343262823375
+Donor Terminal Serum Creatinine from DDR,0.030122190312379612
+Donor Weight,0.03009301640945611
+Serum Creatinine at Transplant,0.02994234082793601
+Calculated MELD score at Transplant,0.029834625542099938
+Recipient Weight (kg) at Transplant,0.02910850188188129
+Recipient BMI at Transplant,0.02828621702767009
+Donor Terminal SGOT/AST from DDR,0.027311799813213366
+INR at Transplant,0.027105103204000995
+Donor Height,0.026059020726600948
+Recipient age,0.02555099230755669
+Donor Terminal SGPT/ALT from DDR,0.025066494698587266
+Recipient Height (cm) at Transplant,0.024749754958746276
+Allocation MELD/PELD or Status at Transplant,0.02467316026524416
+Donor Terminal INR from DDR,0.022306391368522395
+Donor Length of Hospital Stay,0.021589445942976758
+Donor Terminal Total Bilirubin from DDR,0.021229572449148117
+% Macro Vesicular Fat,0.014995144698908409
+Donor Ethnicity,0.009769964875174725
+Recipient Ethnicity,0.008446221660553631
+Recipient Transjugular Intrahepatic Portosystemic Shunt (TIPS) at Transplant,0.00801570122793609
+Warm Ichemia Time,0.007726427729673289
+Recipient Prior Abdominal Surgery at Transplant,0.007515829012861721
+Relisting For Liver Transplant,0.005755331289943213
+Infection,0.0047582236125157966
+Chronic Rejection,0.004415562635168077
+Recipient Diabetes Mellitus at Listing,0.004234115998392594
+Allocation Type,0.0042119825984865905
+Recipient Ever Hepatocellular Carcinoma (HCC) Diagnosis?,0.00392285140403038
+Recipient History of Malignancy at Listing,0.00380209122766412
+Recurrent Hepatitis,0.003678032624365712
+Donor Gender,0.0036461742622184677
+Recurrent Disease,0.0034253726810425378
+Recipient Portal Vein Thrombosis at Transplant,0.003404990512316216
+Dialysis Type,0.003319330143668686
+Hepatic Artery Thrombosis,0.0031751479508045737
+History of Spontaneous Bacterial Peritonitis (SBP) at Listing,0.00308942147904349
+Recipient Prior Abdominal Surgery at Listing,0.0030597760640691477
+Diffuse Cholangiopathy,0.0029063139369868546
+Denovo Hepatitis,0.0026394364639848278
+Recipient Gender,0.0026107776151629517
+Other Vascular Thrombosis,0.0025847059329731966
+Acute Rejection,0.002040324594193924
+Graft Type,0.0003848024842301498
